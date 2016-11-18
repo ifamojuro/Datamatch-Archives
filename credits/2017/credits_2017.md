@@ -15,6 +15,7 @@ Jason Goodman, 2018, Leverett - "Can clap with one hand"
 #### Individual Members
 - Natalie Portman, 2003, Lowell, Website, Algorithm - "She's not single :("
 - John Adams, 1755, N/A, Data/Stats, Pub - "France sucks yo"
+- Matt Damon, 2004, Lowell, Will Hunting - "how 'bout dem apples?"
 - Teddy Liu, 2020, Greenough, Website
 - Sam Goldman, 2019, Lowell, Data/Stats - "Enjoys sunsets and long walks on the beach"
 - Ying-ke Chin-Lee, 2020, Greenough, Algorithm, Website
